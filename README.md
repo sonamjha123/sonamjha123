@@ -1,6 +1,6 @@
 
 
-### 👋 Hi there! I'm Sonam Jha
+### 👋 Hi there! I'm Sonam J
 
 🚀 **Frontend Developer** | 🎨 **UI/UX Enthusiast** | 💻 **React & Next.js Specialist**
 
