@@ -2,28 +2,43 @@
 
 ### 👋 Hi there! I'm Sonam J
 
-🚀 **Frontend Developer** | 🎨 **UI/UX Enthusiast** | 💻 **React & Next.js Specialist**
+# Hi, I'm [Your Name] 👋
+
+🎯 **Senior Frontend Consultant** | React Architect | Performance & DX Advocate
+
+I specialize in building scalable, accessible, and performant web applications with React and modern tooling. I work closely with product, design, and backend teams to deliver real value — not just code.
 
 ---
 
-I'm a passionate and detail-oriented frontend developer who loves building beautiful, responsive, and performant web applications. I thrive on transforming complex problems into elegant, user-centric solutions.
+## 🔧 Tech Expertise
 
-### 🌟 What I Do
+- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frameworks**: React, Next.js, Redux Toolkit, TailwindCSS
+- **Architecture**: Design systems, Monorepos, Micro frontends
+- **Performance**: Web Vitals, Lighthouse CI, Bundle optimization
+- **Testing**: React Testing Library, Cypress, Playwright
+- **DevOps**: Vercel, GitHub Actions, Netlify, Docker (basic)
+- **Tools**: Storybook, Figma ↔ Dev Handoff, ESLint, Prettier
 
-- 🔭 Currently building interactive and scalable web apps using **React.js** and **Next.js**
-- 💻 Crafting pixel-perfect UIs with modern **JavaScript**, **TypeScript**, and **CSS frameworks**
-- 🧠 Continuously learning and experimenting with the latest tools and best practices
-- 🎨 Enhancing user experience through thoughtful **UI/UX design**
-- ⚙️ Writing clean, efficient, and reusable code following industry standards
-- 📦 Managing state effectively with **Redux** and **Redux Toolkit**
-- 🚀 Deploying optimized applications on **Vercel** and other platforms
+---
 
-### 🤝 Let's Collaborate!
+## 📘 Featured Projects
 
-I'm always excited to collaborate on:
+### 🛠️ [Project Name]
+**React + TypeScript + Tailwind**  
+Built a high-performance dashboard with 99+ Lighthouse score, SSR with Next.js, and full accessibility coverage.
 
-- 🌐 Open-source projects
-- 🛠️ Innovative frontend tools and libraries
+[🔗 Live Demo](#) | [💻 Code](#)
+
+---
+
+## 🗂️ Recent Highlights
+
+- 🧩 Developed internal design system used by 3 product teams
+- 🚀 Reduced homepage load time from 5s → 1.3s
+- 🎙️ Speaker at local frontend meetups on "Scalable React Patterns"
+- 🧠 Contributor to [company’s internal frontend handbook](#)
+
 - 📱 Product ideas that need a solid frontend foundation
 
 ### 💬 Ask Me About
