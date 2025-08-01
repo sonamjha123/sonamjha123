@@ -1,8 +1,6 @@
 
 
-### 👋 Hi there! I'm Sonam J
-
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Sonam J 👋
 
 🎯 **Senior Frontend Consultant** | React Architect | Performance & DX Advocate
 
