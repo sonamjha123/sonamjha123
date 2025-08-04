@@ -2,44 +2,38 @@
 
 # Hi, I'm Sonam J 👋
 
-🎯 **Senior Frontend Consultant** | React Architect | Performance & DX Advocate
+**Senior Frontend Consultant** • React Architect • Performance & Developer Experience Advocate
 
-I specialize in building scalable, accessible, and performant web applications with React and modern tooling. I work closely with product, design, and backend teams to deliver real value — not just code.
-
----
-
-## 🔧 Tech Expertise
-
-- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks**: React, Next.js, Redux Toolkit, TailwindCSS
-- **Architecture**: Design systems, Monorepos, Micro frontends
-- **Performance**: Web Vitals, Lighthouse CI, Bundle optimization
-- **Testing**: React Testing Library, Cypress, Playwright
-- **DevOps**: Vercel, GitHub Actions, Netlify, Docker (basic)
-- **Tools**: Storybook, Figma ↔ Dev Handoff, ESLint, Prettier
+I'm a frontend specialist who loves turning complex ideas into fast, accessible, and maintainable web experiences. I’ve spent the last few years building scalable interfaces with **React**, optimizing performance, and helping teams ship with confidence — not just code for the sake of it.
 
 ---
 
-## 📘 Featured Projects
+## What I Work With
 
-### 🛠️ [Project Name]
-**React + TypeScript + Tailwind**  
-Built a high-performance dashboard with 99+ Lighthouse score, SSR with Next.js, and full accessibility coverage.
-
-[🔗 Live Demo](#) | [💻 Code](#)
+* **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
+* **Frameworks & Libraries**: React, Next.js, Redux Toolkit, TailwindCSS
+* **Architecture & Patterns**: Design systems, Monorepos, Micro frontends
+* **Performance**: Core Web Vitals, Lighthouse CI, Bundle optimization
+* **Testing**: React Testing Library, Cypress, Playwright
+* **DevOps & Deployment**: Vercel, Netlify, GitHub Actions, Docker (basic)
+* **Tools**: Storybook, Figma ↔ Developer Handoff, ESLint, Prettier
 
 ---
 
-## 🗂️ Recent Highlights
+## A Few Recent Wins
 
-- 🧩 Developed internal design system used by 3 product teams
-- 🚀 Reduced homepage load time from 5s → 1.3s
-- 🎙️ Speaker at local frontend meetups on "Scalable React Patterns"
-- 🧠 Contributor to [company’s internal frontend handbook](#)
+* Helped implement a shared design system that improved UI consistency across multiple teams
+* Contributed to performance tuning that reduced page load times significantly (from ~5s to under 2s in key user flows)
+* Spoke at internal knowledge-sharing sessions about practical React patterns and DX improvements
+* Assisted in documenting frontend best practices to support onboarding and cross-team alignment
+* Worked on early iterations of product features, translating design ideas into interactive UI with React and TailwindCSS
 
-- 📱 Product ideas that need a solid frontend foundation
+--------
+### Open to Chat About
 
-### 💬 Ask Me About
+React, JavaScript, state management, DX, frontend architecture, component libraries, deployment strategies, or even just swapping stories from the trenches of product-building.
 
-React, Next.js, JavaScript, CSS, Responsive Design, State Management, UI/UX, Deployment, Web Performance
 
+
+
+Each would have a slightly different tone!
