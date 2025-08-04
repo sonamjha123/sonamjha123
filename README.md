@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Sonam J 👋
+## Hi, I'm Sonam J 👋
 
 **Senior Frontend Consultant** • React Architect • Performance & Developer Experience Advocate
 
@@ -8,7 +8,7 @@ I'm a frontend specialist who loves turning complex ideas into fast, accessible,
 
 ---
 
-## What I Work With
+### What I Work With
 
 * **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
 * **Frameworks & Libraries**: React, Next.js, Redux Toolkit, TailwindCSS
@@ -20,7 +20,7 @@ I'm a frontend specialist who loves turning complex ideas into fast, accessible,
 
 ---
 
-## A Few Recent Wins
+### A Few Recent Wins
 
 * Helped implement a shared design system that improved UI consistency across multiple teams
 * Contributed to performance tuning that reduced page load times significantly (from ~5s to under 2s in key user flows)
@@ -33,7 +33,3 @@ I'm a frontend specialist who loves turning complex ideas into fast, accessible,
 
 React, JavaScript, state management, DX, frontend architecture, component libraries, deployment strategies, or even just swapping stories from the trenches of product-building.
 
-
-
-
-Each would have a slightly different tone!
