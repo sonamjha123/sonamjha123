@@ -3,10 +3,11 @@
 ## Hi, I'm Sonam J 👋
 
 **Senior Frontend Consultant** • React Architect • Performance & Developer Experience 
-
-I'm a frontend specialist who loves turning complex ideas into fast, accessible, and maintainable web experiences. I’ve spent the last few years building scalable interfaces with **React**, optimizing performance, and helping teams ship with confidence — not just code for the sake of it.
-
 ---
+### Current Focus 
+ * Working on Job Board application using React.js , Tailwind UI, Firebase, TypeScript.
+ * Learning MERN Full Stack Development.
+ * Open to collaborating on Open-source Projects.
 
 ### What I Work With
 
