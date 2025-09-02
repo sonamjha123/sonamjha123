@@ -2,7 +2,7 @@
 
 ## Hi, I'm Sonam J 👋
 
-**Senior Frontend Consultant** • React Architect • Performance & Developer Experience 
+ Crafting Scalable Web Apps | React | Node.js | Microservices | Gen AI
 ---
 ### Current Focus 
  * Working on Job Board application using React.js , Tailwind UI, Firebase, TypeScript.
