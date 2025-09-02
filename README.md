@@ -8,7 +8,7 @@
  * Working on Job Board application using React.js , Tailwind UI, Firebase, TypeScript.
  * Learning MERN Full Stack Development.
  * Open to collaborating on Open-source Projects.
-
+---
 ### What I Work With
 
 * **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
