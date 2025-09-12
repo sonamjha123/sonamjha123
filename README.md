@@ -12,12 +12,12 @@
 ### What I Work With
 
 * **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
-* **Frameworks & Libraries**: React, Next.js, Redux Toolkit, TailwindCSS
+* **Frameworks & Libraries**: React, Next.js, Redux Toolkit, TailwindCSS, NodeJS, ExpressJS, MongoDB
 * **Architecture & Patterns**: Design systems, Monorepos, Micro frontends
 * **Performance**: Core Web Vitals, Lighthouse CI, Bundle optimization
 * **Testing**: React Testing Library, Cypress, Playwright
 * **DevOps & Deployment**: Vercel, Netlify, GitHub Actions, Docker (basic)
-* **Tools**: Storybook, Figma ↔ Developer Handoff, ESLint, Prettier
+* **Tools**: Storybook, Figma, ESLint, Prettier, 
 
 ---
 
