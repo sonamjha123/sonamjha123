@@ -2,17 +2,26 @@
 
 ## Hi, I'm Sonam J 👋
 
-   Crafting Scalable Web Apps | React | Node.js | Microservices | Gen AI
+   Crafting Scalable Web Apps | React | Node.js | Microservices | Gen AI | Open Source Contributions
 ---
-### Current Focus 
- * Working on Job Board application using React.js , Tailwind UI, Firebase, TypeScript.
- * Learning MERN Full Stack Development.
- * Open to collaborating on Open-source Projects.
+
+### About Me
+
+I’m a **Senior Consultant** specializing in **frontend and full stack development**, passionate about building scalable, user-focused web applications. I enjoy solving complex problems, mentoring developers, and contributing to open-source communities. If I dont code, I love to travel, paint, do some artistic stuffs which refreshes my mind .
+
+---
+
+### Current Focus
+
+* 🏡 Contributing to the **[Home Assistant](https://github.com/home-assistant)** open-source project — enhancing the frontend experience and developer documentation.
+* 💻 Working with **TypeScript**, **Lit**, and **Web Components** to improve UI/UX and performance.
+* 🔍 Exploring **frontend architecture**, **design systems**, and **open-source workflows**.
+
 ---
 ### What I Work With
 
-* **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
-* **Frameworks & Libraries**: React, Next.js, Redux Toolkit, TailwindCSS, NodeJS, ExpressJS, MongoDB
+* **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, Lit, Web Components
+* **Frameworks & Libraries**: React, Next.js, Redux Toolkit, TailwindCSS, NodeJS, ExpressJS, MongoDB, GraphQL, REST APIs
 * **Architecture & Patterns**: Design systems, Monorepos, Micro frontends
 * **Performance**: Core Web Vitals, Lighthouse CI, Bundle optimization
 * **Testing**: React Testing Library, Cypress, Playwright
