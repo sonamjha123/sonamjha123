@@ -44,5 +44,4 @@ I’m a **Senior Consultant** specializing in **frontend and full stack developm
 --------
 🌍 Open to Remote Full-time & Freelance Opportunities
 
-React, JavaScript, state management, DX, frontend architecture, component libraries, deployment strategies, or even just swapping stories from the trenches of product-building.
 
