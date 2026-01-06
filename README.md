@@ -35,11 +35,11 @@ I’m a **Senior Consultant** specializing in **frontend and full stack developm
 
 ### A Few Recent Wins
 
-* Helped implement a shared design system that improved UI consistency across multiple teams
-* Contributed to performance tuning that reduced page load times significantly (from ~5s to under 2s in key user flows)
-* Spoke at internal knowledge-sharing sessions about practical React patterns and DX improvements
-* Assisted in documenting frontend best practices to support onboarding and cross-team alignment
-* Worked on early iterations of product features, translating design ideas into interactive UI with React and TailwindCSS
+* Played a key role in rolling out a shared design system, helping multiple teams ship more consistent and maintainable UI
+* Contributed to targeted performance improvements that brought page load times down from ~5s to under 2s in critical user flows
+* Led internal knowledge-sharing sessions focused on practical React patterns and improving everyday developer experience
+* Helped document frontend best practices to make onboarding smoother and improve alignment across teams
+* Worked on early-stage product features, partnering closely with design to turn concepts into usable, interactive UI using React and TailwindCSS
 
 --------
 🌍 Open to Remote Full-time & Freelance Opportunities
