@@ -16,7 +16,7 @@ I’m a **Senior Consultant** specializing in **frontend and full stack developm
 * 🏡 Contributing to the **[Home Assistant](https://github.com/home-assistant)** open-source project — enhancing the frontend experience and developer documentation.
 * 💻 Working with **TypeScript**, **Lit**, and **Web Components** to improve UI/UX and performance.
 * 🔍 Exploring **frontend architecture**, **design systems**, and **open-source workflows**.
-* Currently learning Three.js, integration with React
+* Currently learning Three.js, integration with React along with LLMs and Prompt engineering.
 * Passionate about AI and next-gen tech.
   
 
