@@ -18,7 +18,9 @@ I’m a **Senior Consultant** specializing in **frontend and full stack developm
 * 🔍 Exploring **frontend architecture**, **design systems**, and **open-source workflows**.
 * Currently learning Three.js, integration with React along with LLMs and Prompt engineering.
 * Passionate about AI and next-gen tech.
-  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+![React](https://img.shields.io/badge/-React-black?logo=react)
+
 
 ---
 ### What I Work With
