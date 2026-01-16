@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonam J</h1>
 <h3 align="center">A passionate Senior frontend developer from India , specializing in frontend and full stack development, passionate about building scalable, user-focused web applications. I enjoy solving complex problems, mentoring developers, and contributing to open-source communities. If I dont code, I love to travel, paint, do some artistic stuffs which refreshes my mind .</h3>
 
-# Hi 👋, I'm Sonam Jha
 
 - 🔭 I'm currently working on **A Full-Stack User Networking Platform - https://github.com/sonamjha123/Syncly**
 
