@@ -28,8 +28,6 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sonamjha123)
+![GitHub Streak](https://github.com/sonamjha123?user=sonamjha123)
 
-
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+\
