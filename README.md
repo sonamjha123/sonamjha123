@@ -6,9 +6,9 @@
 
 - 🔭 I'm currently working on **A Full-Stack User Networking Platform - https://github.com/sonamjha123/Syncly**
 
-- 🌱 I'm currently learning **Scalable FrontEnd System Design, Exploring LLM  LLMs and Prompt engineering.**
+- 🌱 I'm currently learning **Scalable FrontEnd System Designs and Exploring  LLMs and Prompt engineering.**
 
-- 👯 I'm looking to collaborate on **Open source projects - https://github.com/home-assistant/frontend**
+- 👯 I'm looking to collaborate on **Open source projects  - https://github.com/home-assistant/frontend**
 
 - 🤝 I'm looking for help with **I’m looking for help with Algorithms, Data Structures, System Design, Time-Space Complexity**
 
@@ -19,6 +19,7 @@
 - ⚡ Fun fact **Curiosity and Consistency is a great combination to deal with excellence!!**
 
 - 📝 I regularly write articles on **[https://medium.com/@pjsonam](https://medium.com/@pjsonam)**
+
 
 <hr/>
 
