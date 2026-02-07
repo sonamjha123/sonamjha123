@@ -8,8 +8,8 @@
 
 - 🔭 I'm currently working on **A Full-Stack User Networking Platform - https://github.com/sonamjha123/Syncly**
 
-- 🌱 I'm currently learning **Scalable FrontEnd System Designs and Exploring  LLMs and Prompt engineering.**
-
+- 🌱 Working on **scalable frontend system architectures while exploring LLMs and applied prompt engineering.**
+  
 - 👯 I'm looking to collaborate on **Open source projects  - https://github.com/home-assistant/frontend**
 
 - 🤝 I'm looking for help with **I’m looking for help with Algorithms, Data Structures, System Design, Time-Space Complexity**
