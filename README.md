@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Curiosity and Consistency is a great combination to deal with excellence!!**
 
-- 📝 I regularly write articles on **[https://medium.com/@pjsonam](https://medium.com/@pjsonam)**
+- 📝 I  write articles on **[https://medium.com/@pjsonam](https://medium.com/@pjsonam)**
 
 
 <hr/>
